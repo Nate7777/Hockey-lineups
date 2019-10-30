@@ -1,0 +1,8 @@
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\bin\Debug\AlignementJoueursForm.exe
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\bin\Debug\AlignementJoueursForm.pdb
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\obj\Debug\AlignementJoueursForm.AlignementJoueursForm.resources
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\obj\Debug\AlignementJoueursForm.Properties.Resources.resources
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\obj\Debug\AlignementJoueurs.csproj.GenerateResource.cache
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\obj\Debug\AlignementJoueursForm.exe
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\obj\Debug\AlignementJoueursForm.pdb
+C:\Users\nacom\Documents\College\2e annee\PROG1236\Projets\AlignementJoueursForm\obj\Debug\AlignementJoueurs.csprojAssemblyReference.cache
